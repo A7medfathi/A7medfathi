@@ -6,7 +6,6 @@
 
 Experienced Full-Stack Web Developer
 
-## Skills
 ### Languages:
 
 <img align="left" alt="C#" title="C#" height="20px" src="https://img.shields.io/badge/C%23-239120.svg?style=flat-square&logo=c%20sharp&logoColor=white" />
