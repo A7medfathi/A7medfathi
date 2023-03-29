@@ -23,14 +23,20 @@ Experienced Full-Stack Web Developer
 
 ### Backend:
 <img align="left" alt="Laravel" title="Laravel" height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
-<img align="left" alt="ASP.NET" title="ASP.NET" height="45px" src="https://raw.githubusercontent.com/fadihania/fadihania/3aab5cdafbe26cb34f40c2c869179fd837178dcf/icons/aspnet.svg" />
+
 
 
 <br />
 
 ### Database:
 <img align="left" alt="MySQL" title="MySQL" height="35px" src="https://raw.githubusercontent.com/fadihania/fadihania/3aab5cdafbe26cb34f40c2c869179fd837178dcf/icons/mysql.svg" />
-<img align="left" alt="PostgreSQL" title="PostgreSQL" height="40px" src="https://raw.githubusercontent.com/fadihania/fadihania/3aab5cdafbe26cb34f40c2c869179fd837178dcf/icons/sqlserver.svg" />
+
+<br />
+
+
+### Under Learning:
+<img align="left" alt="ASP.NET" title="ASP.NET" height="45px" src="https://raw.githubusercontent.com/fadihania/fadihania/3aab5cdafbe26cb34f40c2c869179fd837178dcf/icons/aspnet.svg" />
+<img align="left" alt="sqlserver" title="sqlserver" height="40px" src="https://raw.githubusercontent.com/fadihania/fadihania/3aab5cdafbe26cb34f40c2c869179fd837178dcf/icons/sqlserver.svg" />
 
 <br />
 
